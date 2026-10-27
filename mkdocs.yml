@@ -1,0 +1,6 @@
+site_name: Hand Release Push Up Guide
+site_description: A practical guide to the hand release push up for the Army Fitness Test
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
